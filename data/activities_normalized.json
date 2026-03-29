@@ -11477,5 +11477,18 @@
     "start_date_local": "2026-03-26T08:12:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 82684.1,
+    "elevation_gain": 254.8,
+    "id": "17893006466",
+    "moving_time": 12235.0,
+    "name": "Los Rios Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T08:27:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
