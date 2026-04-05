@@ -11503,5 +11503,18 @@
     "start_date_local": "2026-04-01T17:14:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 19998.5,
+    "elevation_gain": 54.0,
+    "id": "17977303827",
+    "moving_time": 2267.0,
+    "name": "ROUVY - Easter 2026 | Mississippi | USA",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-04T08:28:47Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
