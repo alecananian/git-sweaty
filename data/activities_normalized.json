@@ -11516,5 +11516,18 @@
     "start_date_local": "2026-04-04T08:28:47Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 10061.5,
+    "elevation_gain": 389.0,
+    "id": "17990800681",
+    "moving_time": 7997.0,
+    "name": "South Lykken Trail Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-05T08:13:22Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
