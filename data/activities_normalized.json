@@ -11542,5 +11542,18 @@
     "start_date_local": "2026-04-08T16:09:01Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 24269.2,
+    "elevation_gain": 196.0,
+    "id": "18059979187",
+    "moving_time": 3167.0,
+    "name": "ROUVY - Ambatokely | Madagascar",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-10T17:05:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
