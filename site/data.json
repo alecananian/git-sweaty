@@ -8000,6 +8000,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18059979187",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 15,
+      "name": "ROUVY - Bormio to Tirano | Italy",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18072558151",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15902,6 +15911,15 @@
           "distance": 24269.2,
           "elevation_gain": 196.0,
           "moving_time": 3167.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18072558151"
+          ],
+          "count": 1,
+          "distance": 35398.9,
+          "elevation_gain": 95.0,
+          "moving_time": 3121.0
         }
       },
       "Walk": {
@@ -15981,7 +15999,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:14:08.730751+00:00",
+  "generated_at": "2026-04-12T15:17:04.660085+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
