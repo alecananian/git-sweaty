@@ -11581,5 +11581,18 @@
     "start_date_local": "2026-04-13T17:35:26Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 3171.1,
+    "elevation_gain": 25.3,
+    "id": "18228312042",
+    "moving_time": 3240.0,
+    "name": "Amazonas Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-23T08:38:39Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
