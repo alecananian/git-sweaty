@@ -11594,5 +11594,18 @@
     "start_date_local": "2026-04-23T08:38:39Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 34499.0,
+    "elevation_gain": 80.0,
+    "id": "18286200505",
+    "moving_time": 3855.0,
+    "name": "ROUVY - Haveluy to Sars-et-Rosi\u00e9res | France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-27T17:08:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
