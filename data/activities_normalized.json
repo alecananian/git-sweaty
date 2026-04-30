@@ -11607,5 +11607,18 @@
     "start_date_local": "2026-04-27T17:08:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 29608.9,
+    "elevation_gain": 308.0,
+    "id": "18313809355",
+    "moving_time": 3491.0,
+    "name": "ROUVY - Red Rock Country | Arizona | USA",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-29T17:30:01Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
