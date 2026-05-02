@@ -8045,6 +8045,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18313809355",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 15,
+      "name": "ROUVY - La Vuelta 2022 | Stage 1 - Utrecht | NL",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18338887430",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 15,
+      "name": "ROUVY - Des Plaines River Bike Trail-Pine Dunes to Wadsworth-GoPro 13 Black",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18339170848",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15983,6 +16001,16 @@
           "distance": 29608.9,
           "elevation_gain": 308.0,
           "moving_time": 3491.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18338887430",
+            "18339170848"
+          ],
+          "count": 2,
+          "distance": 30772.3,
+          "elevation_gain": 136.0,
+          "moving_time": 3643.0
         }
       },
       "Walk": {
@@ -16071,7 +16099,7 @@
       }
     }
   },
-  "generated_at": "2026-05-01T15:59:00.379954+00:00",
+  "generated_at": "2026-05-02T15:50:12.349686+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
