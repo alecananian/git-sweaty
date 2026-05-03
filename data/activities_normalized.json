@@ -11646,5 +11646,18 @@
     "start_date_local": "2026-05-01T15:57:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 5484.3,
+    "elevation_gain": 207.1,
+    "id": "18351552662",
+    "moving_time": 4544.0,
+    "name": "Vista Point Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-02T10:57:32Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

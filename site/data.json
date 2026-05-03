@@ -8063,6 +8063,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18339170848",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 10,
+      "name": "Vista Point Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18351552662",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15712,6 +15721,15 @@
           "distance": 10061.5,
           "elevation_gain": 389.0,
           "moving_time": 7997.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18351552662"
+          ],
+          "count": 1,
+          "distance": 5484.3,
+          "elevation_gain": 207.1,
+          "moving_time": 4544.0
         }
       },
       "Ride": {
@@ -16099,7 +16117,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:50:12.349686+00:00",
+  "generated_at": "2026-05-03T15:50:38.173224+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
