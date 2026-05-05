@@ -8072,6 +8072,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18351552662",
       "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 16,
+      "name": "ROUVY - Ponta do Albernaz | Azores",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18379185394",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 17,
+      "name": "ROUVY - Cabe\u00e7os do Mist\u00e9rio | Azores",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18379402149",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16029,6 +16047,16 @@
           "distance": 30772.3,
           "elevation_gain": 136.0,
           "moving_time": 3643.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18379185394",
+            "18379402149"
+          ],
+          "count": 2,
+          "distance": 26779.0,
+          "elevation_gain": 389.0,
+          "moving_time": 3336.0
         }
       },
       "Walk": {
@@ -16117,7 +16145,7 @@
       }
     }
   },
-  "generated_at": "2026-05-04T16:48:09.442680+00:00",
+  "generated_at": "2026-05-05T16:26:25.319304+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",

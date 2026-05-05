@@ -11659,5 +11659,31 @@
     "start_date_local": "2026-05-02T10:57:32Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 14005.8,
+    "elevation_gain": 236.0,
+    "id": "18379185394",
+    "moving_time": 1860.0,
+    "name": "ROUVY - Ponta do Albernaz | Azores",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-04T16:59:23Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 12773.2,
+    "elevation_gain": 153.0,
+    "id": "18379402149",
+    "moving_time": 1476.0,
+    "name": "ROUVY - Cabe\u00e7os do Mist\u00e9rio | Azores",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-04T17:31:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
