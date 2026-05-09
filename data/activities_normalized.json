@@ -11685,5 +11685,18 @@
     "start_date_local": "2026-05-04T17:31:38Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 18298.6,
+    "elevation_gain": 222.0,
+    "id": "18430760899",
+    "moving_time": 2406.0,
+    "name": "ROUVY - Spi\u0161 Castle | Slovakia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-08T14:47:06Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
