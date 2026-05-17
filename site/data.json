@@ -8108,6 +8108,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18442250746",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 10,
+      "name": "ROUVY - S\u00e3o Jo\u00e3o | Azores",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18532846732",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 10,
+      "name": "ROUVY - Porto | Portugal",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18533272568",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16093,6 +16111,16 @@
           "distance": 18298.6,
           "elevation_gain": 222.0,
           "moving_time": 2406.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18532846732",
+            "18533272568"
+          ],
+          "count": 2,
+          "distance": 33018.6,
+          "elevation_gain": 292.0,
+          "moving_time": 4077.0
         }
       },
       "Walk": {
@@ -16181,7 +16209,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T15:59:46.034209+00:00",
+  "generated_at": "2026-05-17T16:00:27.989170+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",

@@ -11711,5 +11711,31 @@
     "start_date_local": "2026-05-09T08:06:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 11669.4,
+    "elevation_gain": 199.0,
+    "id": "18532846732",
+    "moving_time": 1676.0,
+    "name": "ROUVY - S\u00e3o Jo\u00e3o | Azores",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-16T10:02:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 21349.2,
+    "elevation_gain": 93.0,
+    "id": "18533272568",
+    "moving_time": 2401.0,
+    "name": "ROUVY - Porto | Portugal",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-16T10:31:25Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
