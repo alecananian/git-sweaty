@@ -8126,6 +8126,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18533272568",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 9,
+      "name": "Ballona to Torrance Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18547262372",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15840,6 +15849,15 @@
           "distance": 50603.2,
           "elevation_gain": 228.4,
           "moving_time": 7251.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18547262372"
+          ],
+          "count": 1,
+          "distance": 59030.5,
+          "elevation_gain": 108.1,
+          "moving_time": 8172.0
         }
       },
       "VirtualRide": {
@@ -16209,7 +16227,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T16:00:27.989170+00:00",
+  "generated_at": "2026-05-18T17:30:29.564326+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",

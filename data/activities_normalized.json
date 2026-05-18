@@ -11737,5 +11737,18 @@
     "start_date_local": "2026-05-16T10:31:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 59030.5,
+    "elevation_gain": 108.1,
+    "id": "18547262372",
+    "moving_time": 8172.0,
+    "name": "Ballona to Torrance Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T09:06:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
