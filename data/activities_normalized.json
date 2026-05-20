@@ -11750,5 +11750,31 @@
     "start_date_local": "2026-05-17T09:06:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 13581.2,
+    "elevation_gain": 155.0,
+    "id": "18574742587",
+    "moving_time": 1706.0,
+    "name": "ROUVY - Ponta do Pico | Azores",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-19T15:21:39Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 16299.2,
+    "elevation_gain": 194.0,
+    "id": "18575149619",
+    "moving_time": 2318.0,
+    "name": "ROUVY - Around Tharwa | Australia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-19T15:52:23Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

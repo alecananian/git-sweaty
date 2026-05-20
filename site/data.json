@@ -8135,6 +8135,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18547262372",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 15,
+      "name": "ROUVY - Ponta do Pico | Azores",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18574742587",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 15,
+      "name": "ROUVY - Around Tharwa | Australia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18575149619",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16139,6 +16157,16 @@
           "distance": 33018.6,
           "elevation_gain": 292.0,
           "moving_time": 4077.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18574742587",
+            "18575149619"
+          ],
+          "count": 2,
+          "distance": 29880.4,
+          "elevation_gain": 349.0,
+          "moving_time": 4024.0
         }
       },
       "Walk": {
@@ -16227,7 +16255,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:39:10.079940+00:00",
+  "generated_at": "2026-05-20T17:54:29.932989+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
