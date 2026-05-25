@@ -8153,6 +8153,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18575149619",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 5,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18649398158",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15876,6 +15885,15 @@
           "distance": 59030.5,
           "elevation_gain": 108.1,
           "moving_time": 8172.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18649398158"
+          ],
+          "count": 1,
+          "distance": 203313.0,
+          "elevation_gain": 163.2,
+          "moving_time": 31018.0
         }
       },
       "VirtualRide": {
@@ -16255,7 +16273,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T16:02:21.520516+00:00",
+  "generated_at": "2026-05-25T17:08:17.200524+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
