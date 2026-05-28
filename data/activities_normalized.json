@@ -11783,11 +11783,24 @@
     "elevation_gain": 163.2,
     "id": "18649398158",
     "moving_time": 31018.0,
-    "name": "Morning Ride",
+    "name": "Fietselfstedentocht Fail 2026",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-05-25T05:25:03Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 2622.4,
+    "elevation_gain": 2.9,
+    "id": "18679884132",
+    "moving_time": 2024.0,
+    "name": "Cats of Bolsward Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-27T20:52:36Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
