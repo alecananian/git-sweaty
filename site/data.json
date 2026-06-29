@@ -8216,6 +8216,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19017202970",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 12,
+      "name": "ROUVY - Castelo Branco | Azores",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19102849720",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16248,6 +16257,15 @@
           "distance": 16404.3,
           "elevation_gain": 39.0,
           "moving_time": 1730.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19102849720"
+          ],
+          "count": 1,
+          "distance": 12949.6,
+          "elevation_gain": 323.0,
+          "moving_time": 2298.0
         }
       },
       "Walk": {
@@ -16381,7 +16399,7 @@
       }
     }
   },
-  "generated_at": "2026-06-28T16:12:24.627769+00:00",
+  "generated_at": "2026-06-29T17:38:36.002302+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
