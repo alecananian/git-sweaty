@@ -11880,5 +11880,31 @@
     "start_date_local": "2026-06-28T12:01:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 24830.4,
+    "elevation_gain": 156.0,
+    "id": "19141867057",
+    "moving_time": 2747.0,
+    "name": "ROUVY - Santo Stefano to Sant Ambrogio | Sicily",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-01T11:46:05Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 3111.8,
+    "elevation_gain": 14.4,
+    "id": "19145524122",
+    "moving_time": 2265.0,
+    "name": "Atwater Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-01T19:58:09Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
