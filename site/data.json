@@ -8252,6 +8252,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19179854558",
       "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 16,
+      "name": "ROUVY - Messina to Capo Peloro | Sicily",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19236066943",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16311,6 +16320,15 @@
           "distance": 19999.2,
           "elevation_gain": 210.0,
           "moving_time": 2376.0
+        },
+        "2026-07-08": {
+          "activity_ids": [
+            "19236066943"
+          ],
+          "count": 1,
+          "distance": 13398.9,
+          "elevation_gain": 16.0,
+          "moving_time": 1353.0
         }
       },
       "Walk": {
@@ -16453,7 +16471,7 @@
       }
     }
   },
-  "generated_at": "2026-07-08T16:40:50.792351+00:00",
+  "generated_at": "2026-07-09T17:23:00.922332+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
