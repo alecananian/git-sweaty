@@ -11932,5 +11932,18 @@
     "start_date_local": "2026-07-08T16:46:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 13999.0,
+    "elevation_gain": 195.0,
+    "id": "19259529359",
+    "moving_time": 1797.0,
+    "name": "ROUVY - Sommatino to Riesi | Sicily",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-10T11:27:10Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
