@@ -11945,5 +11945,31 @@
     "start_date_local": "2026-07-10T11:27:10Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 5170.0,
+    "elevation_gain": 28.0,
+    "id": "19344826386",
+    "moving_time": 3078.0,
+    "name": "River Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-16T19:29:21Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 16842.4,
+    "elevation_gain": 210.0,
+    "id": "19351721389",
+    "moving_time": 1933.0,
+    "name": "ROUVY - Arrieta | Lanzarote",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-17T08:40:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
