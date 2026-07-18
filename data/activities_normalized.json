@@ -11971,5 +11971,18 @@
     "start_date_local": "2026-07-17T08:40:40Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 2635.6,
+    "elevation_gain": 14.1,
+    "id": "19357191470",
+    "moving_time": 1932.0,
+    "name": "Atwater Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-17T19:42:45Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
