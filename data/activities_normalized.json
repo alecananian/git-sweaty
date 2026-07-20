@@ -11984,5 +11984,18 @@
     "start_date_local": "2026-07-17T19:42:45Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 20281.2,
+    "elevation_gain": 239.0,
+    "id": "19379592382",
+    "moving_time": 2535.0,
+    "name": "ROUVY - La Santa | Lanzarote",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-19T09:08:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

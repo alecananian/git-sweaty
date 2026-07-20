@@ -8297,6 +8297,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19357191470",
       "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 9,
+      "name": "ROUVY - La Santa | Lanzarote",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19379592382",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16383,6 +16392,15 @@
           "distance": 16842.4,
           "elevation_gain": 210.0,
           "moving_time": 1933.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19379592382"
+          ],
+          "count": 1,
+          "distance": 20281.2,
+          "elevation_gain": 239.0,
+          "moving_time": 2535.0
         }
       },
       "Walk": {
@@ -16543,7 +16561,7 @@
       }
     }
   },
-  "generated_at": "2026-07-19T15:59:01.124122+00:00",
+  "generated_at": "2026-07-20T16:24:37.404880+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
