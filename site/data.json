@@ -8315,6 +8315,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19426486960",
       "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 8,
+      "name": "ROUVY - Timanfaya | Lanzarote",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19461716365",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16410,6 +16419,15 @@
           "distance": 20281.2,
           "elevation_gain": 239.0,
           "moving_time": 2535.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19461716365"
+          ],
+          "count": 1,
+          "distance": 30158.9,
+          "elevation_gain": 403.0,
+          "moving_time": 4009.0
         }
       },
       "Walk": {
@@ -16579,7 +16597,7 @@
       }
     }
   },
-  "generated_at": "2026-07-25T16:05:14.142103+00:00",
+  "generated_at": "2026-07-26T16:02:38.950392+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",

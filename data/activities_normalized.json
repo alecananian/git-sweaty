@@ -12010,5 +12010,18 @@
     "start_date_local": "2026-07-22T19:31:33Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 30158.9,
+    "elevation_gain": 403.0,
+    "id": "19461716365",
+    "moving_time": 4009.0,
+    "name": "ROUVY - Timanfaya | Lanzarote",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-25T08:21:56Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
