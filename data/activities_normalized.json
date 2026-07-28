@@ -12023,5 +12023,18 @@
     "start_date_local": "2026-07-25T08:21:56Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 29199.1,
+    "elevation_gain": 228.0,
+    "id": "19501071925",
+    "moving_time": 3534.0,
+    "name": "ROUVY - Lake Zug | Switzerland",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-28T06:44:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
