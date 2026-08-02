@@ -12062,5 +12062,18 @@
     "start_date_local": "2026-08-01T08:09:17Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 11649.1,
+    "elevation_gain": 34.0,
+    "id": "19558431044",
+    "moving_time": 1287.0,
+    "name": "ROUVY - Paris - The City of Love",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-01T08:52:27Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
