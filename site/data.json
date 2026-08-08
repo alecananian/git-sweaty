@@ -8360,6 +8360,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19558431044",
       "year": 2026
+    },
+    {
+      "date": "2026-08-07",
+      "hour": 8,
+      "name": "ROUVY - Madison River Canyon | Montana",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19643052309",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16483,6 +16492,15 @@
           "distance": 31347.800000000003,
           "elevation_gain": 233.0,
           "moving_time": 3799.0
+        },
+        "2026-08-07": {
+          "activity_ids": [
+            "19643052309"
+          ],
+          "count": 1,
+          "distance": 20129.6,
+          "elevation_gain": 58.0,
+          "moving_time": 2118.0
         }
       },
       "Walk": {
@@ -16661,7 +16679,7 @@
       }
     }
   },
-  "generated_at": "2026-08-07T15:57:09.941758+00:00",
+  "generated_at": "2026-08-08T15:31:15.400198+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
