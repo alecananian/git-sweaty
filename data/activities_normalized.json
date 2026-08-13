@@ -12088,5 +12088,18 @@
     "start_date_local": "2026-08-07T08:56:17Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 30978.6,
+    "elevation_gain": 162.0,
+    "id": "19726405987",
+    "moving_time": 3224.0,
+    "name": "ROUVY - Saswad to Indraprasth | Pune | India",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-13T07:03:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
