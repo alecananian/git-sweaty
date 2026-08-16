@@ -8378,6 +8378,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19726405987",
       "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 8,
+      "name": "ROUVY - Avenue of the Giants | California | USA",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19755308656",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16519,6 +16528,15 @@
           "distance": 30978.6,
           "elevation_gain": 162.0,
           "moving_time": 3224.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19755308656"
+          ],
+          "count": 1,
+          "distance": 31998.9,
+          "elevation_gain": 185.0,
+          "moving_time": 3764.0
         }
       },
       "Walk": {
@@ -16697,7 +16715,7 @@
       }
     }
   },
-  "generated_at": "2026-08-15T15:21:39.547708+00:00",
+  "generated_at": "2026-08-16T15:22:45.901853+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
