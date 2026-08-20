@@ -12127,5 +12127,18 @@
     "start_date_local": "2026-08-16T08:15:20Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 20948.3,
+    "elevation_gain": 46.0,
+    "id": "19824556477",
+    "moving_time": 2339.0,
+    "name": "ROUVY - The Netherlands - Assen - Loon - Balloo - Rolde - Ekehaar - Schieven",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-20T07:20:28Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
