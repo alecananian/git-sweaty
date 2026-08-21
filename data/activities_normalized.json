@@ -12140,5 +12140,18 @@
     "start_date_local": "2026-08-20T07:20:28Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 27113.5,
+    "elevation_gain": 203.0,
+    "id": "19838482754",
+    "moving_time": 3144.0,
+    "name": "ROUVY - Lake Constance | Switzerland",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-21T07:29:45Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
