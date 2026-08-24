@@ -8414,6 +8414,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19838482754",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 7,
+      "name": "ROUVY - GWA Iceland | J\u00f6kuls\u00e1rl\u00f3n Glacier Lagoon",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19867379682",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16591,6 +16600,15 @@
           "distance": 27113.5,
           "elevation_gain": 203.0,
           "moving_time": 3144.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19867379682"
+          ],
+          "count": 1,
+          "distance": 35900.0,
+          "elevation_gain": 191.0,
+          "moving_time": 4232.0
         }
       },
       "Walk": {
@@ -16769,7 +16787,7 @@
       }
     }
   },
-  "generated_at": "2026-08-23T15:23:36.205406+00:00",
+  "generated_at": "2026-08-24T15:40:06.412689+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",

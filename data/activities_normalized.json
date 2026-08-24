@@ -12153,5 +12153,18 @@
     "start_date_local": "2026-08-21T07:29:45Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 35900.0,
+    "elevation_gain": 191.0,
+    "id": "19867379682",
+    "moving_time": 4232.0,
+    "name": "ROUVY - GWA Iceland | J\u00f6kuls\u00e1rl\u00f3n Glacier Lagoon",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-23T07:42:30Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
