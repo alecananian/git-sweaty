@@ -12166,5 +12166,18 @@
     "start_date_local": "2026-08-23T07:42:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 21700.2,
+    "elevation_gain": 205.0,
+    "id": "19894003893",
+    "moving_time": 2406.0,
+    "name": "ROUVY - Winter Alt St. Johan | Switzerland",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-25T07:06:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
