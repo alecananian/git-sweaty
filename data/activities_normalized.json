@@ -12179,5 +12179,18 @@
     "start_date_local": "2026-08-25T07:06:21Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 27037.3,
+    "elevation_gain": 175.0,
+    "id": "19937150998",
+    "moving_time": 3028.0,
+    "name": "ROUVY - Whitefish | Great Divide | Montana",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-28T07:18:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
