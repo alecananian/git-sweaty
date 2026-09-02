@@ -12205,5 +12205,18 @@
     "start_date_local": "2026-08-31T17:19:04Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 19980.6,
+    "elevation_gain": 364.0,
+    "id": "19998789508",
+    "moving_time": 3302.0,
+    "name": "ROUVY - Butte | Great Divide | Montana",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-01T16:52:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

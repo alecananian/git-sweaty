@@ -8450,6 +8450,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19983711825",
       "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 16,
+      "name": "ROUVY - Butte | Great Divide | Montana",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19998789508",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16663,6 +16672,15 @@
           "distance": 22816.5,
           "elevation_gain": 176.0,
           "moving_time": 2867.0
+        },
+        "2026-09-01": {
+          "activity_ids": [
+            "19998789508"
+          ],
+          "count": 1,
+          "distance": 19980.6,
+          "elevation_gain": 364.0,
+          "moving_time": 3302.0
         }
       },
       "Walk": {
@@ -16841,7 +16859,7 @@
       }
     }
   },
-  "generated_at": "2026-09-01T18:13:28.951052+00:00",
+  "generated_at": "2026-09-02T18:27:59.509419+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
