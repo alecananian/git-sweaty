@@ -12231,5 +12231,18 @@
     "start_date_local": "2026-09-04T17:15:55Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 23296.5,
+    "elevation_gain": 59.0,
+    "id": "20131219153",
+    "moving_time": 2697.0,
+    "name": "ROUVY - Mazara del Vallo to Marsala | Sicily",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-11T07:13:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
