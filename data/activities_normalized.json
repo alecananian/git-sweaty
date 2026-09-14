@@ -12257,5 +12257,18 @@
     "start_date_local": "2026-09-13T08:20:01Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 2446.0,
+    "elevation_gain": 4.0,
+    "id": "20165791730",
+    "moving_time": 1577.0,
+    "name": "Spoke Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-13T17:17:47Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
