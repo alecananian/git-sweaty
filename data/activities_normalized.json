@@ -12270,5 +12270,31 @@
     "start_date_local": "2026-09-13T17:17:47Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 24021.5,
+    "elevation_gain": 77.0,
+    "id": "20220638171",
+    "moving_time": 2746.0,
+    "name": "ROUVY - WINTER VORONEZH NATURE RESERVE | RUSSIA",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-17T15:50:00Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 2953.5,
+    "elevation_gain": 22.7,
+    "id": "20228459456",
+    "moving_time": 1925.0,
+    "name": "River Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-18T07:33:29Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

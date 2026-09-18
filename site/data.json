@@ -8495,6 +8495,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20165791730",
       "year": 2026
+    },
+    {
+      "date": "2026-09-17",
+      "hour": 15,
+      "name": "ROUVY - WINTER VORONEZH NATURE RESERVE | RUSSIA",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20220638171",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 7,
+      "name": "River Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20228459456",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16744,6 +16762,15 @@
           "distance": 46700.1,
           "elevation_gain": 195.0,
           "moving_time": 5385.0
+        },
+        "2026-09-17": {
+          "activity_ids": [
+            "20220638171"
+          ],
+          "count": 1,
+          "distance": 24021.5,
+          "elevation_gain": 77.0,
+          "moving_time": 2746.0
         }
       },
       "Walk": {
@@ -16927,11 +16954,20 @@
           "distance": 2446.0,
           "elevation_gain": 4.0,
           "moving_time": 1577.0
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            "20228459456"
+          ],
+          "count": 1,
+          "distance": 2953.5,
+          "elevation_gain": 22.7,
+          "moving_time": 1925.0
         }
       }
     }
   },
-  "generated_at": "2026-09-17T18:51:09.828336+00:00",
+  "generated_at": "2026-09-18T18:06:56.968211+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
