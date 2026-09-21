@@ -12296,5 +12296,31 @@
     "start_date_local": "2026-09-18T07:33:29Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 10869.8,
+    "elevation_gain": 71.0,
+    "id": "20260398973",
+    "moving_time": 1321.0,
+    "name": "ROUVY - Gravel | Madison Buffalo Jump State Park | Montana",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-20T13:19:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 11150.1,
+    "elevation_gain": 1.0,
+    "id": "20260548057",
+    "moving_time": 1135.0,
+    "name": "ROUVY - Las Vegas at Night | USA",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-20T13:43:58Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

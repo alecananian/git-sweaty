@@ -8513,6 +8513,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20228459456",
       "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 13,
+      "name": "ROUVY - Gravel | Madison Buffalo Jump State Park | Montana",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20260398973",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 13,
+      "name": "ROUVY - Las Vegas at Night | USA",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20260548057",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16771,6 +16789,16 @@
           "distance": 24021.5,
           "elevation_gain": 77.0,
           "moving_time": 2746.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "20260398973",
+            "20260548057"
+          ],
+          "count": 2,
+          "distance": 22019.9,
+          "elevation_gain": 72.0,
+          "moving_time": 2456.0
         }
       },
       "Walk": {
@@ -16967,7 +16995,7 @@
       }
     }
   },
-  "generated_at": "2026-09-20T18:03:26.145425+00:00",
+  "generated_at": "2026-09-21T19:53:34.364259+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
