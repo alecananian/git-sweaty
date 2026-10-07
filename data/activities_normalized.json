@@ -12348,5 +12348,18 @@
     "start_date_local": "2026-10-02T07:27:03Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 9340.0,
+    "elevation_gain": 429.6,
+    "id": "20492666956",
+    "moving_time": 6539.0,
+    "name": "Tongva Peak Birthday Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-07T08:09:34Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

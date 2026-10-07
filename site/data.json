@@ -8549,6 +8549,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20421415376",
       "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 8,
+      "name": "Tongva Peak Birthday Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/20492666956",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16207,6 +16216,15 @@
           "distance": 5484.3,
           "elevation_gain": 207.1,
           "moving_time": 4544.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "20492666956"
+          ],
+          "count": 1,
+          "distance": 9340.0,
+          "elevation_gain": 429.6,
+          "moving_time": 6539.0
         }
       },
       "Ride": {
@@ -17031,7 +17049,7 @@
       }
     }
   },
-  "generated_at": "2026-10-06T20:01:13.033797+00:00",
+  "generated_at": "2026-10-07T20:26:32.454201+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/6533075",
   "repo": "alecananian/git-sweaty",
